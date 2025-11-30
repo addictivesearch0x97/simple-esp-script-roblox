@@ -5,7 +5,7 @@ This script focuses on delivering crisp, 1-pixel rendering without anti-aliasing
 
 ## ✨ Features
 
-*   **Pixel Perfect Rendering:** Constructed using filled primitives instead of standard lines to achieve a true "physical" 1px thickness with no blurring or visual artifacts.
+*   **Pixel Perfect Rendering:** Constructed using filled primitives instead of standard lines to achieve a true "physical" 1px thickness with no blurring or visual artifacts (nope :3).
 *   **Adaptive Performance:**
     *   **Dynamic Mode:** Scans character bones (R6/R15) at close range for precise hitboxes that adjust to animations (walking, laying down, etc.).
     *   **Static Mode:** Automatically switches to a simplified calculation method at long ranges (>300 studs) to save FPS.
